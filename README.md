@@ -1,7 +1,7 @@
 # Tetromino3D
 
-![Bounce](https://user-images.githubusercontent.com/37048222/81449234-6d417a00-9145-11ea-93ac-62b560313e6f.PNG)
-![BounceGamePlay](https://user-images.githubusercontent.com/37048222/81449939-fc9b5d00-9146-11ea-9cb8-6308568c4c16.PNG)
+![3D Tetromino 8_2_2020 6_37_46 PM](https://user-images.githubusercontent.com/37048222/89134975-785f3880-d4ef-11ea-91d4-36782852eefb.png)
+![3D Tetromino 8_2_2020 6_35_21 PM](https://user-images.githubusercontent.com/37048222/89134977-7d23ec80-d4ef-11ea-8b1c-b3c0608fb01c.png)
 
 ## Description
 
