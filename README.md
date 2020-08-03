@@ -20,7 +20,7 @@ will run 3D Tetromino.exe under "Game" to play the game.
 
 ## Build With
 - Unity - a Game engine
-- Visual Studios (C#) - a text editor
+- Visual Studios (C#) 
 
 ## Lessons from project
 
