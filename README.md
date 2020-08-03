@@ -6,30 +6,22 @@
 
 ## Description
 
-This is the first game I've made in Java! It's a game where you dodge enemies blocks. 
-I implemented a point system to calculate your high score and a shop system to buy
-things like health and upgrades. I also used a Digital Audio Workstation (DAW) called 
-Reaper to create the music.
+This is a Tetris game clone which I added a 3D component to. I made this project so
+that I can learn C# and the unity engine.
 
 
-## Installing
+## Running the Application
 
-You will have to have java installed on your machine to run this application. You can
-use eclipse or netbeans to run "Main.java".
-
-## How to Play
-- Use arrow keys to move player and dodge enemies
-- Face different and unique enemies in higher levels
-- Reach different levels and get the highest score!
+You need to download the files from this repository. Once you download the files, you
+will run 3D Tetromino.exe under "Game" to play the game.
 
 ## Known Bugs
-- sometimes when playing the "normal mode", game crashes. Still figuring out why
+- The high score is not currently working properly.
 
 ## Build With
 Eclipse - a java ide
 
 ## Lessons from project
 
-- I learned about making a game engine 
-
-- It strengthened my understanding of Object-Oriented Programming
+- I learned about the C# language 
+- I learned how to used to Unity engine
