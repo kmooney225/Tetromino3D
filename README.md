@@ -19,7 +19,8 @@ will run 3D Tetromino.exe under "Game" to play the game.
 - The high score is not currently working properly.
 
 ## Build With
-Eclipse - a java ide
+- Unity - a Game engine
+- Visual Studios (C#) - a text editor
 
 ## Lessons from project
 
